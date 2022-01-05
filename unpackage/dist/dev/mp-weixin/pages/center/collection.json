@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的收藏",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-row": "/uview-ui/components/u-row/u-row",
+    "u-col": "/uview-ui/components/u-col/u-col",
+    "u-image": "/uview-ui/components/u-image/u-image"
+  }
+}

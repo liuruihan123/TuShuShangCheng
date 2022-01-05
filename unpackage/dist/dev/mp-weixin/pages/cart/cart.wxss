@@ -1,0 +1,56 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.container.data-v-0f00adf4 {
+  height: calc(100vh - 298rpx);
+  overflow-y: scroll;
+}
+.container .cartItem.data-v-0f00adf4 {
+  border: 1rpx solid #eee;
+  border-radius: 20rpx;
+  margin-bottom: 20rpx;
+}
+.container .cartItem .left.data-v-0f00adf4 {
+  width: 80rpx;
+  height: 80rpx;
+  padding: 10rpx;
+}
+.container .cartItem .right.data-v-0f00adf4 {
+  height: 240rpx;
+  align-items: flex-start;
+}
+.container .cartItem .right .top.data-v-0f00adf4 {
+  width: 100%;
+}
+.container .cartItem .right .top text.data-v-0f00adf4 {
+  height: 40rpx;
+  line-height: 40rpx;
+  width: 100%;
+  text-align: left;
+}
+.container .cartItem .right .bottom.data-v-0f00adf4 {
+  width: 100%;
+}
+.container .cartItem .right .bottom .price.data-v-0f00adf4 {
+  height: 50rpx;
+  line-height: 50rpx;
+  overflow: hidden;
+  color: red;
+  font-weight: bold;
+  font-size: 35rpx;
+}
+.container .cartItem .right .bottom .icon.data-v-0f00adf4 {
+  color: red;
+  width: 40rpx;
+}
+.footer.data-v-0f00adf4 {
+  position: fixed;
+  display: flex;
+  bottom: 0;
+  height: 100rpx;
+  line-height: 100rpx;
+  width: 100%;
+}
+
